@@ -1,5 +1,4 @@
 # Fraud Detection — Machine Learning on Cloud (LD7187)
-## Group Project Code Submission
 
 ---
 
@@ -12,7 +11,7 @@ This project implements a complete machine learning pipeline for credit card fra
 | Dataset | Kaggle Credit Card Fraud Detection (284,807 transactions, 0.17% fraud) |
 | Platform | GCP Vertex AI Workbench (n1-standard-8, europe-west2) |
 | Data storage | Google Cloud Storage |
-| Best model | Random Forest (tuned) |
+| Best model | Random Forest, XGBoost |
 
 ---
 
@@ -57,5 +56,3 @@ imbalanced-learn, xgboost, scipy, google-cloud-storage
 ```
 
 ---
-
-*LD7187 Machine Learning on Cloud | Submission deadline: 21 May 2026*
